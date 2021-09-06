@@ -1,0 +1,152 @@
+[
+    {
+        "Procedimientos": [
+            {
+                "name": "Consulta de Podología",
+                "price": 60000
+            },
+            {
+                "name": "Onicocriptosis (1 Espícula)",
+                "price": 100000
+            },
+            {
+                "name": "Onicocriptosis Adicional misma Falange",
+                "price": 150000
+            },
+            {
+                "name": "Onicocriptosis dedo Derecho e Izquierdo",
+                "price": 180000
+            },
+            {
+                "name": "Onicocriptosis Bilateral + Adicional",
+                "price": 250000
+            },
+            {
+                "name": "Onicocriptosis Bilateral + 2 Adicionales",
+                "price": 300000
+            },
+            {
+                "name": "Matricectomía (1 Espícula)",
+                "price": 130000
+            },
+            {
+                "name": "Matricectomía Adicional misma Falange",
+                "price": 200000
+            },
+            {
+                "name": "Matricectomía dedo Derecho e Izquierdo",
+                "price": 250000
+            },
+            {
+                "name": "Matricectomía Bilateral + Adicional",
+                "price": 320000
+            },
+            {
+                "name": "Matricectomía Bilateral + 2 Adicionales",
+                "price": 400000
+            },
+            {
+                "name": "Onicomicosis sin Barniz",
+                "price": 80000
+            },
+            {
+                "name": "Onicomicosis con Barniz",
+                "price": 125000
+            },
+            {
+                "name": "Toma de KOH",
+                "price": 20000
+            },
+            {
+                "name": "Eliminación de Verruga (VPH)",
+                "price": 130000
+            },
+            {
+                "name": "Eliminación de Verruga Adicional",
+                "price": 60000
+            },
+            {
+                "name": "Terapia para Fascitis Plantar",
+                "price": 90000
+            },
+            {
+                "name": "Terapia para Fascitis Plantar Completa (8 sesiones)",
+                "price": 500000
+            },
+            {
+                "name": "Diagnóstico de Pie Plano",
+                "price": 80000
+            },
+            {
+                "name": "Debridación Hiperqueratosis",
+                "price": 80000
+            },
+            {
+                "name": "Debridación Hiperqueratosis con Crema",
+                "price": 120000
+            },
+            {
+                "name": "Quiropedia",
+                "price": 60000
+            },
+            {
+                "name": "Ortesis para Hallux Valgux",
+                "price": 60000
+            },
+            {
+                "name": "Vendaje Hallux Valgux (Kinestésica)",
+                "price": 60000
+            },
+            {
+                "name": "Reconstrucción Ungueal Hallux",
+                "price": 60000
+            },
+            {
+                "name": "Reconstrucción Ungueal otros",
+                "price": 25000
+            },
+            {
+                "name": "Servicio A Domicilio",
+                "price": 30000
+            }
+        ],
+        "Productos": [
+            {
+                "name": "Fungipod Barniz Clásico",
+                "price": 45000
+            },
+            {
+                "name": "Fungipod Golden (DM)",
+                "price": 45000
+            },
+            {
+                "name": "MicoPod Solución (Piel)",
+                "price": 45000
+            },
+            {
+                "name": "Bandas SelSystem (Lengüetas)",
+                "price": 20000
+            },
+            {
+                "name": "UreaPod 40 Granulada",
+                "price": 35000
+            },
+            {
+                "name": "UreaPod Crema",
+                "price": 35000
+            },
+            {
+                "name": "FootWorks Talones",
+                "price": 13000
+            },
+            {
+                "name": "FootWorks Hidratante",
+                "price": 13000
+            },
+            {
+                "name": "Cinta Uña Acanalada",
+                "price": 30000
+            }
+        ]
+    }
+]
