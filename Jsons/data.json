@@ -1,5 +1,6 @@
-[
-    {
+{
+    "success": 1,
+    "data": {
         "Procedimientos": [
             {
                 "name": "Consulta de Podología",
@@ -149,4 +150,4 @@
             }
         ]
     }
-]
+}
