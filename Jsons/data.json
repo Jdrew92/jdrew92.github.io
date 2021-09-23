@@ -111,7 +111,9 @@
                     "name": "Servicio A Domicilio",
                     "price": 30000
                 }
-            ],
+            ]
+        },
+        {
             "Productos": [
                 {
                     "name": "Fungipod Barniz Clásico",
