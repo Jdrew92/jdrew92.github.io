@@ -176,7 +176,7 @@
         {
             "Productos": [
                 {
-                    "name": "Fungipod Barniz Clásico",
+                    "name": "Fungipod Clásico",
                     "price": 45000
                 },
                 {
@@ -184,12 +184,8 @@
                     "price": 45000
                 },
                 {
-                    "name": "MicoPod Solución (Piel)",
+                    "name": "MicoPod Solución",
                     "price": 45000
-                },
-                {
-                    "name": "Bandas SelSystem (Lengüetas)",
-                    "price": 20000
                 },
                 {
                     "name": "UreaPod 40 Granulada",
