@@ -200,6 +200,14 @@
                     "price": 30000
                 },
                 {
+                    "name": "FootWorks Talones",
+                    "price": 13000
+                },
+                {
+                    "name": "FootWorks Hidratante",
+                    "price": 13000
+                },
+                {
                     "name": "Hidratante Ungueal Base Fenicada",
                     "price": 20000
                 },
@@ -210,14 +218,6 @@
                 {
                     "name": "Bandas SelSystem Uña Acanalada",
                     "price": 30000
-                },
-                {
-                    "name": "FootWorks Talones",
-                    "price": 13000
-                },
-                {
-                    "name": "FootWorks Hidratante",
-                    "price": 13000
                 }
             ]
         }
