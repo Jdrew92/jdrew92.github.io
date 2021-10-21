@@ -5,111 +5,171 @@
             "Procedimientos": [
                 {
                     "name": "Consulta de Podología",
+                    "price": 50000
+                },
+                {
+                    "name": "Pedicure Clínico",
                     "price": 60000
                 },
                 {
-                    "name": "Onicocriptosis (1 Espícula)",
+                    "name": "Pedicure Clínico Control Mensual (Año)",
+                    "price": 600000
+                },
+                {
+                    "name": "Vendaje para Hallux Valgux",
+                    "price": 60000
+                },
+                {
+                    "name": "Pedigrafía Unicamente",
+                    "price": 60000
+                },
+                {
+                    "name": "Reconstrucción Ungueal 1 Uña (Hallux)",
+                    "price": 50000
+                },
+                {
+                    "name": "Reconstrucción Ungueal Uña Adicional",
+                    "price": 20000
+                },
+                {
+                    "name": "Ortésis Plantares personalizadas",
+                    "price": 60000
+                },
+                {
+                    "name": "Prevención del Pie Diabético",
+                    "price": 60000
+                },
+                {
+                    "name": "Servicio A Domicilio",
+                    "price": 30000
+                },
+                {
+                    "name": "Ortésis para Hallux Valgux",
+                    "price": 60000
+                },
+                {
+                    "name": "Vendaje para Hallux Valgux",
+                    "price": 60000
+                },
+                {
+                    "name": "Espiculaectomia de un lateral ungueal",
                     "price": 100000
                 },
                 {
-                    "name": "Onicocriptosis Adicional misma Falange",
+                    "name": "Espiculaectomia bilateral ( 2 espículas misma falange)",
                     "price": 150000
                 },
                 {
-                    "name": "Onicocriptosis dedo Derecho e Izquierdo",
+                    "name": "Espiculaectomia de un lateral ungueal en dedo derecho e izquierdo",
+                    "price": 150000
+                },
+                {
+                    "name": "Espiculaectomia dedo derecho e izquierdo (3 espículas)",
                     "price": 180000
                 },
                 {
-                    "name": "Onicocriptosis Bilateral + Adicional",
-                    "price": 250000
+                    "name": "Espiculaectomia dedo derecho e izquierdo (4 espículas)",
+                    "price": 220000
                 },
                 {
-                    "name": "Onicocriptosis Bilateral + 2 Adicionales",
-                    "price": 300000
+                    "name": "Matricectomia Parcial Una Matriz",
+                    "price": 150000
                 },
                 {
-                    "name": "Matricectomía (1 Espícula)",
-                    "price": 130000
+                    "name": "Matricectomia Parcial 2 Matriz (un dedo)",
+                    "price": 180000
                 },
                 {
-                    "name": "Matricectomía Adicional misma Falange",
-                    "price": 200000
+                    "name": "Matricectomia Parcial 2 Matriz (dedo derecho e izquierdo)",
+                    "price": 190000
                 },
                 {
-                    "name": "Matricectomía dedo Derecho e Izquierdo",
-                    "price": 250000
+                    "name": "Matricectomia Parcial 3 matriz (2 dedos)",
+                    "price": 230000
                 },
                 {
-                    "name": "Matricectomía Bilateral + Adicional",
-                    "price": 320000
+                    "name": "Matricectomia Parcial 4 matriz (2 dedos)",
+                    "price": 270000
                 },
                 {
-                    "name": "Matricectomía Bilateral + 2 Adicionales",
-                    "price": 400000
+                    "name": "Curación adicional",
+                    "price": 50000
                 },
                 {
-                    "name": "Onicomicosis sin Barniz",
+                    "name": "Onicomicosis  (máximo 4 dedos)",
                     "price": 80000
                 },
                 {
-                    "name": "Onicomicosis con Barniz",
-                    "price": 125000
+                    "name": "Onicomicosis  (2 pies)",
+                    "price": 120000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal",
+                    "price": 60000
+                },
+                {
+                    "name": "Onicomicosis control por 6 meses + Fórmula",
+                    "price": 650000
+                },
+                {
+                    "name": "Onicomicosis + Formula Magistral",
+                    "price": 45000
                 },
                 {
                     "name": "Toma de KOH",
                     "price": 20000
                 },
                 {
-                    "name": "Eliminación de Verruga (VPH)",
-                    "price": 130000
+                    "name": "Onicogrifosis Debridación de 1 a 3 uñas",
+                    "price": 80000
                 },
                 {
-                    "name": "Eliminación de Verruga Adicional",
-                    "price": 60000
-                },
-                {
-                    "name": "Terapia para Fascitis Plantar",
+                    "name": "Onicogrifosis Debridación de 4 a 5 uñas",
                     "price": 90000
                 },
                 {
-                    "name": "Terapia para Fascitis Plantar Completa (8 sesiones)",
-                    "price": 500000
+                    "name": "Onicogrifosis Debridación 6 o más Uñas",
+                    "price": 140000
                 },
                 {
-                    "name": "Diagnóstico de Pie Plano",
+                    "name": "Eliminación De Una Verruga V.P.H.",
+                    "price": 100000
+                },
+                {
+                    "name": "Eliminación De Una Verruga Adicional V.P.H.",
+                    "price": 50000
+                },
+                {
+                    "name": "Eliminación De Una Verruga V.P.H  Otras Áreas",
+                    "price": 100000
+                },
+                {
+                    "name": "Terapia para Fascitis Plantar",
                     "price": 80000
                 },
                 {
-                    "name": "Debridación Hiperqueratosis",
+                    "name": "Terapia para Fascitis plantar 8 sesiones",
+                    "price": 550000
+                },
+                {
+                    "name": "Diagnóstico de Pie Plano y Cavo",
+                    "price": 64000
+                },
+                {
+                    "name": "Debridación de Hiperqueratosis",
                     "price": 80000
                 },
                 {
-                    "name": "Debridación Hiperqueratosis con Crema",
-                    "price": 120000
+                    "name": "Debridación de Hiperqueratosis + Crema",
+                    "price": 110000
                 },
                 {
-                    "name": "Quiropedia",
-                    "price": 60000
+                    "name": "Helomas (1) (Clavos plantares)",
+                    "price": 80000
                 },
                 {
-                    "name": "Ortesis para Hallux Valgux",
-                    "price": 60000
-                },
-                {
-                    "name": "Vendaje Hallux Valgux (Kinestésica)",
-                    "price": 60000
-                },
-                {
-                    "name": "Reconstrucción Ungueal Hallux",
-                    "price": 60000
-                },
-                {
-                    "name": "Reconstrucción Ungueal otros",
-                    "price": 25000
-                },
-                {
-                    "name": "Servicio A Domicilio",
-                    "price": 30000
+                    "name": "Heloma adicional (Clavos plantares)",
+                    "price": 50000
                 }
             ]
         },
@@ -133,11 +193,27 @@
                 },
                 {
                     "name": "UreaPod 40 Granulada",
-                    "price": 35000
+                    "price": 30000
                 },
                 {
-                    "name": "UreaPod Crema",
-                    "price": 35000
+                    "name": "UreaPod Crema Hidratante",
+                    "price": 30000
+                },
+                {
+                    "name": "Bálsamo Pédico",
+                    "price": 30000
+                },
+                {
+                    "name": "Hidratante Ungueal Base Fenicada",
+                    "price": 20000
+                },
+                {
+                    "name": "Plantillas Ortopédicas termo formables",
+                    "price": 150000
+                },
+                {
+                    "name": "Bandas SelSystem Uña Acanalada",
+                    "price": 30000
                 },
                 {
                     "name": "FootWorks Talones",
@@ -146,10 +222,6 @@
                 {
                     "name": "FootWorks Hidratante",
                     "price": 13000
-                },
-                {
-                    "name": "Cinta Uña Acanalada",
-                    "price": 30000
                 }
             ]
         }
