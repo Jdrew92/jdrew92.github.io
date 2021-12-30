@@ -5,15 +5,15 @@
             "Procedimientos": [
                 {
                     "name": "Consulta de Podología",
-                    "price": 50000
-                },
-                {
-                    "name": "Pedicure Clínico",
                     "price": 60000
                 },
                 {
+                    "name": "Pedicure Clínico",
+                    "price": 70000
+                },
+                {
                     "name": "Pedicure Clínico Control Mensual (Año)",
-                    "price": 600000
+                    "price": 810000
                 },
                 {
                     "name": "Vendaje para Hallux Valgux",
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "Reconstrucción Ungueal Uña Adicional",
-                    "price": 20000
+                    "price": 25000
                 },
                 {
                     "name": "Ortésis Plantares personalizadas",
@@ -41,7 +41,7 @@
                 },
                 {
                     "name": "Servicio A Domicilio",
-                    "price": 30000
+                    "price": 40000
                 },
                 {
                     "name": "Ortésis para Hallux Valgux",
@@ -53,67 +53,71 @@
                 },
                 {
                     "name": "Espiculaectomia de un lateral ungueal",
-                    "price": 100000
+                    "price": 110000
                 },
                 {
-                    "name": "Espiculaectomia bilateral ( 2 espículas misma falange)",
-                    "price": 150000
+                    "name": "Espiculaectomia bilateral (2 laterales)",
+                    "price": 170000
                 },
                 {
-                    "name": "Espiculaectomia de un lateral ungueal en dedo derecho e izquierdo",
-                    "price": 150000
-                },
-                {
-                    "name": "Espiculaectomia dedo derecho e izquierdo (3 espículas)",
-                    "price": 180000
-                },
-                {
-                    "name": "Espiculaectomia dedo derecho e izquierdo (4 espículas)",
-                    "price": 220000
-                },
-                {
-                    "name": "Matricectomia Parcial Una Matriz",
-                    "price": 150000
-                },
-                {
-                    "name": "Matricectomia Parcial 2 Matriz (un dedo)",
-                    "price": 180000
-                },
-                {
-                    "name": "Matricectomia Parcial 2 Matriz (dedo derecho e izquierdo)",
-                    "price": 190000
-                },
-                {
-                    "name": "Matricectomia Parcial 3 matriz (2 dedos)",
+                    "name": "Espiculaectomia bilateral (3 laterales)",
                     "price": 230000
                 },
                 {
-                    "name": "Matricectomia Parcial 4 matriz (2 dedos)",
+                    "name": "Espiculaectomia bilateral (4 laterales)",
+                    "price": 290000
+                },
+                {
+                    "name": "Matricectomia Parcial (1 lateral)",
+                    "price": 160000
+                },
+                {
+                    "name": "Matricectomia Parcial (2 laterales)",
+                    "price": 220000
+                },
+                {
+                    "name": "Matricectomia Parcial (3 laterales)",
                     "price": 270000
+                },
+                {
+                    "name": "Matricectomia Parcial (4 laterales)",
+                    "price": 310000
                 },
                 {
                     "name": "Curación adicional",
                     "price": 50000
                 },
                 {
-                    "name": "Onicomicosis  (máximo 4 dedos)",
-                    "price": 80000
+                    "name": "TTO Inicial Onicomicosis (máx. 4 Uñas)",
+                    "price": 90000
                 },
                 {
-                    "name": "Onicomicosis  (2 pies)",
+                    "name": "TTO. Inicial Onicomicosis (+4 Uñas)",
                     "price": 120000
                 },
                 {
                     "name": "Onicomicosis control Bi-Semanal",
-                    "price": 60000
+                    "price": 70000
                 },
                 {
-                    "name": "Onicomicosis control por 6 meses + Fórmula",
-                    "price": 650000
+                    "name": "Onicomicosis control Bi-Semanal (3 Meses)",
+                    "price": 390000
                 },
                 {
-                    "name": "Onicomicosis + Formula Magistral",
-                    "price": 45000
+                    "name": "Onicomicosis control Bi-Semanal (6 Meses)",
+                    "price": 720000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal (9 Meses)",
+                    "price": 990000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal (12 Meses)",
+                    "price": 1200000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal (6 Meses) + Fórmula",
+                    "price": 740000
                 },
                 {
                     "name": "Toma de KOH",
@@ -121,15 +125,11 @@
                 },
                 {
                     "name": "Onicogrifosis Debridación de 1 a 3 uñas",
-                    "price": 80000
-                },
-                {
-                    "name": "Onicogrifosis Debridación de 4 a 5 uñas",
                     "price": 90000
                 },
                 {
-                    "name": "Onicogrifosis Debridación 6 o más Uñas",
-                    "price": 140000
+                    "name": "Onicogrifosis Debridación de +4 uñas",
+                    "price": 120000
                 },
                 {
                     "name": "Eliminación De Una Verruga V.P.H.",
@@ -145,23 +145,23 @@
                 },
                 {
                     "name": "Terapia para Fascitis Plantar",
-                    "price": 80000
+                    "price": 90000
                 },
                 {
                     "name": "Terapia para Fascitis plantar 8 sesiones",
-                    "price": 550000
+                    "price": 650000
                 },
                 {
                     "name": "Diagnóstico de Pie Plano y Cavo",
-                    "price": 64000
+                    "price": 70000
                 },
                 {
                     "name": "Debridación de Hiperqueratosis",
-                    "price": 80000
+                    "price": 90000
                 },
                 {
                     "name": "Debridación de Hiperqueratosis + Crema",
-                    "price": 110000
+                    "price": 120000
                 },
                 {
                     "name": "Helomas (1) (Clavos plantares)",
@@ -169,7 +169,7 @@
                 },
                 {
                     "name": "Heloma adicional (Clavos plantares)",
-                    "price": 50000
+                    "price": 30000
                 }
             ]
         },
