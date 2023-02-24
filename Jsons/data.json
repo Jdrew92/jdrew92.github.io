@@ -5,155 +5,199 @@
             "Procedimientos": [
                 {
                     "name": "Consulta de Podología",
-                    "price": 60000
+                    "price": 80000
                 },
                 {
                     "name": "Pedicure Clínico",
-                    "price": 70000
+                    "price": 80000
                 },
                 {
-                    "name": "Pedicure Clínico Control Mensual (Año)",
-                    "price": 810000
+                    "name": "Pedicure Clínico Paquete Semestral",
+                    "price": 460000
+                },
+                {
+                    "name": "Pedicure Clínico Paquete Anual",
+                    "price": 900000
                 },
                 {
                     "name": "Vendaje para Hallux Valgux",
-                    "price": 60000
+                    "price": 80000
                 },
                 {
                     "name": "Pedigrafía Unicamente",
-                    "price": 60000
+                    "price": 80000
                 },
                 {
                     "name": "Reconstrucción Ungueal 1 Uña (Hallux)",
-                    "price": 50000
-                },
-                {
-                    "name": "Reconstrucción Ungueal Uña Adicional",
-                    "price": 25000
-                },
-                {
-                    "name": "Ortésis Plantares personalizadas",
-                    "price": 60000
-                },
-                {
-                    "name": "Prevención del Pie Diabético",
-                    "price": 60000
-                },
-                {
-                    "name": "Servicio A Domicilio",
-                    "price": 40000
-                },
-                {
-                    "name": "Ortésis para Hallux Valgux",
-                    "price": 60000
-                },
-                {
-                    "name": "Vendaje para Hallux Valgux",
-                    "price": 60000
-                },
-                {
-                    "name": "Espiculaectomia de un lateral ungueal",
-                    "price": 110000
-                },
-                {
-                    "name": "Espiculaectomia bilateral (2 laterales)",
-                    "price": 170000
-                },
-                {
-                    "name": "Espiculaectomia bilateral (3 laterales)",
-                    "price": 230000
-                },
-                {
-                    "name": "Espiculaectomia bilateral (4 laterales)",
-                    "price": 290000
-                },
-                {
-                    "name": "Matricectomia Parcial (1 lateral)",
-                    "price": 160000
-                },
-                {
-                    "name": "Matricectomia Parcial (2 laterales)",
-                    "price": 220000
-                },
-                {
-                    "name": "Matricectomia Parcial (3 laterales)",
-                    "price": 270000
-                },
-                {
-                    "name": "Matricectomia Parcial (4 laterales)",
-                    "price": 310000
-                },
-                {
-                    "name": "Curación adicional",
-                    "price": 50000
-                },
-                {
-                    "name": "TTO Inicial Onicomicosis (máx. 4 Uñas)",
                     "price": 90000
                 },
                 {
-                    "name": "TTO. Inicial Onicomicosis (+4 Uñas)",
-                    "price": 120000
+                    "name": "Reconstrucción Ungueal Uña Adicional",
+                    "price": 40000
                 },
                 {
-                    "name": "Onicomicosis control Bi-Semanal",
+                    "name": "Ortésis Plantares personalizadas",
                     "price": 70000
                 },
                 {
-                    "name": "Onicomicosis control Bi-Semanal (3 Meses)",
-                    "price": 390000
+                    "name": "Prevención del Pie Diabético",
+                    "price": 80000
                 },
                 {
-                    "name": "Onicomicosis control Bi-Semanal (6 Meses)",
+                    "name": "Control Bisemanal Pie Diabético",
+                    "price": 60000
+                },
+                {
+                    "name": "Control Mensual Pie Diabético",
+                    "price": 80000
+                },
+                {
+                    "name": "Servicio A Domicilio Urbano",
+                    "price": 50000
+                },
+                {
+                    "name": "Servicio A Domicilio Rodadero y otros",
+                    "price": 60000
+                },
+                {
+                    "name": "Ortésis para Hallux Valgux",
+                    "price": 70000
+                },
+                {
+                    "name": "Espiculaectomia de un lateral ungueal",
+                    "price": 150000
+                },
+                {
+                    "name": "Espiculaectomia 2 laterales",
+                    "price": 250000
+                },
+                {
+                    "name": "Espiculaectomia 3 laterales",
+                    "price": 350000
+                },
+                {
+                    "name": "Espiculaectomia 4 laterales",
+                    "price": 450000
+                },
+                {
+                    "name": "Matricectomia 1 lateral",
+                    "price": 220000
+                },
+                {
+                    "name": "Matricectomia 2 laterales",
+                    "price": 350000
+                },
+                {
+                    "name": "Matricectomia 3 laterales",
+                    "price": 400000
+                },
+                {
+                    "name": "Matricectomia 4 laterales",
+                    "price": 480000
+                },
+                {
+                    "name": "Espiculaectomia en manos",
+                    "price": 150000
+                },
+                {
+                    "name": "Curación adicional",
+                    "price": 40000
+                },
+                {
+                    "name": "Anestesia adicional",
+                    "price": 30000
+                },
+                {
+                    "name": "TTO Inicial Onicomicosis (máx. 4 Uñas) con Quiropedia",
+                    "price": 130000
+                },
+                {
+                    "name": "TTO. Inicial Onicomicosis (+4 Uñas) con Quiropedia",
+                    "price": 200000
+                },
+                {
+                    "name": "Onicomicosis control Mensual con Quiropedia",
+                    "price": 90000
+                },
+                {
+                    "name": "Onicomicosis control Mensual 3 Meses",
+                    "price": 260000
+                },
+                {
+                    "name": "Onicomicosis control Mensual 6 Meses",
+                    "price": 480000
+                },
+                {
+                    "name": "Onicomicosis control Mensual 9 Meses",
                     "price": 720000
                 },
                 {
-                    "name": "Onicomicosis control Bi-Semanal (9 Meses)",
-                    "price": 990000
+                    "name": "Onicomicosis control Mensual 12 Meses",
+                    "price": 900000
                 },
                 {
-                    "name": "Onicomicosis control Bi-Semanal (12 Meses)",
-                    "price": 1200000
+                    "name": "Onicomicosis control Bi-Semanal un Mes con Quiropedia",
+                    "price": 160000
                 },
                 {
-                    "name": "Onicomicosis control Bi-Semanal (6 Meses) + Fórmula",
-                    "price": 740000
+                    "name": "Onicomicosis control Bi-Semanal 3 Meses con Quiropedia",
+                    "price": 450000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal 6 Meses con Quiropedia",
+                    "price": 840000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal 9 Meses con Quiropedia",
+                    "price": 99000
+                },
+                {
+                    "name": "Onicomicosis control Bi-Semanal 12 Meses con Quiropedia",
+                    "price": 1560000
                 },
                 {
                     "name": "Toma de KOH",
                     "price": 20000
                 },
                 {
-                    "name": "Onicogrifosis Debridación de 1 a 3 uñas",
-                    "price": 90000
-                },
-                {
-                    "name": "Onicogrifosis Debridación de +4 uñas",
+                    "name": "Onicogrifosis sin Hongos",
                     "price": 120000
                 },
                 {
-                    "name": "Eliminación De Una Verruga V.P.H.",
+                    "name": "Debridación de 1 a 3 uñas",
+                    "price": 120000
+                },
+                {
+                    "name": "Debridación más de 4 uñas",
+                    "price": 160000
+                },
+                {
+                    "name": "Eliminación De Una Verruga VPH",
+                    "price": 120000
+                },
+                {
+                    "name": "Eliminación De Una Verruga Adicional VPH",
+                    "price": 70000
+                },
+                {
+                    "name": "Eliminación De Una Verruga VPH  Otras Áreas",
+                    "price": 120000
+                },
+                {
+                    "name": "Terapia para Fascitis Plantar (Unidad)",
                     "price": 100000
                 },
                 {
-                    "name": "Eliminación De Una Verruga Adicional V.P.H.",
-                    "price": 50000
-                },
-                {
-                    "name": "Eliminación De Una Verruga V.P.H  Otras Áreas",
-                    "price": 100000
-                },
-                {
-                    "name": "Terapia para Fascitis Plantar",
-                    "price": 90000
+                    "name": "Terapia para Fascitis plantar 4 sesiones",
+                    "price": 350000
                 },
                 {
                     "name": "Terapia para Fascitis plantar 8 sesiones",
-                    "price": 650000
+                    "price": 680000
                 },
                 {
                     "name": "Diagnóstico de Pie Plano y Cavo",
-                    "price": 70000
+                    "price": 80000
                 },
                 {
                     "name": "Debridación de Hiperqueratosis",
@@ -161,63 +205,59 @@
                 },
                 {
                     "name": "Debridación de Hiperqueratosis + Crema",
-                    "price": 120000
+                    "price": 130000
                 },
                 {
-                    "name": "Helomas (1) (Clavos plantares)",
-                    "price": 80000
+                    "name": "Helomas (1) (Clavos plantares) sin Anestesia",
+                    "price": 90000
                 },
                 {
-                    "name": "Heloma adicional (Clavos plantares)",
-                    "price": 30000
+                    "name": "Heloma adicional (Clavos plantares) sin Anestesia",
+                    "price": 50000
+                },
+                {
+                    "name": "Heloma (1) (Clavos plantares) con Anestesia",
+                    "price": 140000
+                },
+                {
+                    "name": "Heloma adicional (Clavos plantares) con Anestesia",
+                    "price": 50000
                 }
             ]
         },
         {
             "Productos": [
                 {
-                    "name": "Fungipod Clásico",
-                    "price": 45000
-                },
-                {
-                    "name": "Fungipod Golden",
-                    "price": 45000
-                },
-                {
-                    "name": "MicoPod Solución",
-                    "price": 45000
-                },
-                {
                     "name": "UreaPod 40 Granulada",
-                    "price": 30000
+                    "price": 40000
+                },
+                {
+                    "name": "Desinfec - POD (Desodorante)",
+                    "price": 40000
                 },
                 {
                     "name": "UreaPod Crema Hidratante",
-                    "price": 30000
+                    "price": 40000
                 },
                 {
                     "name": "Bálsamo Pédico",
-                    "price": 30000
-                },
-                {
-                    "name": "FootWorks Talones",
-                    "price": 13000
-                },
-                {
-                    "name": "FootWorks Hidratante",
-                    "price": 13000
+                    "price": 45000
                 },
                 {
                     "name": "Hidratante Ungueal Base Fenicada",
-                    "price": 20000
+                    "price": 30000
                 },
                 {
                     "name": "Plantillas Ortopédicas termo formables",
-                    "price": 150000
+                    "price": 180000
                 },
                 {
                     "name": "Bandas SelSystem Uña Acanalada",
-                    "price": 30000
+                    "price": 45000
+                },
+                {
+                    "name": "NIOGERMOX - PRIMAX LACA FCO 3 ML ( ANIMICOTICO)",
+                    "price": 110000
                 }
             ]
         }
