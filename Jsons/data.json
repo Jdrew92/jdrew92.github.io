@@ -4,28 +4,8 @@
         {
             "Procedimientos": [
                 {
-                    "name": "Consulta de Podología",
-                    "price": 80000
-                },
-                {
                     "name": "Pedicure Clínico",
-                    "price": 80000
-                },
-                {
-                    "name": "Pedicure Clínico Paquete Semestral",
-                    "price": 460000
-                },
-                {
-                    "name": "Pedicure Clínico Paquete Anual",
-                    "price": 900000
-                },
-                {
-                    "name": "Vendaje para Hallux Valgux",
-                    "price": 80000
-                },
-                {
-                    "name": "Pedigrafía Unicamente",
-                    "price": 80000
+                    "price": 90000
                 },
                 {
                     "name": "Reconstrucción Ungueal 1 Uña (Hallux)",
@@ -33,71 +13,66 @@
                 },
                 {
                     "name": "Reconstrucción Ungueal Uña Adicional",
-                    "price": 40000
+                    "price": 45000
                 },
                 {
-                    "name": "Ortésis Plantares personalizadas",
-                    "price": 70000
+                    "name": "Pedigrafía",
+                    "price": 90000
+                },
+                {
+                    "name": "Pedigrafía y plantillas",
+                    "price": 180000
                 },
                 {
                     "name": "Prevención del Pie Diabético",
-                    "price": 80000
-                },
-                {
-                    "name": "Control Bisemanal Pie Diabético",
-                    "price": 60000
-                },
-                {
-                    "name": "Control Mensual Pie Diabético",
-                    "price": 80000
+                    "price": 90000
                 },
                 {
                     "name": "Servicio A Domicilio Urbano",
                     "price": 50000
                 },
                 {
-                    "name": "Servicio A Domicilio Rodadero y otros",
-                    "price": 60000
-                },
-                {
-                    "name": "Ortésis para Hallux Valgux",
-                    "price": 70000
+                    "name": "Espiculaectomia sin anestesia",
+                    "price": 90000
                 },
                 {
                     "name": "Espiculaectomia de un lateral ungueal",
-                    "price": 150000
+                    "price": 160000
                 },
                 {
                     "name": "Espiculaectomia 2 laterales",
-                    "price": 250000
+                    "price": 280000
                 },
                 {
                     "name": "Espiculaectomia 3 laterales",
-                    "price": 350000
-                },
-                {
-                    "name": "Espiculaectomia 4 laterales",
-                    "price": 450000
-                },
-                {
-                    "name": "Matricectomia 1 lateral",
-                    "price": 220000
-                },
-                {
-                    "name": "Matricectomia 2 laterales",
-                    "price": 350000
-                },
-                {
-                    "name": "Matricectomia 3 laterales",
                     "price": 400000
                 },
                 {
+                    "name": "Espiculaectomia 4 laterales",
+                    "price": 500000
+                },
+                {
+                    "name": "Matricectomia 1 lateral",
+                    "price": 250000
+                },
+                {
+                    "name": "Matricectomia 2 laterales",
+                    "price": 380000
+                },
+                {
+                    "name": "Matricectomia 3 laterales",
+                    "price": 450000
+                },
+                {
                     "name": "Matricectomia 4 laterales",
-                    "price": 480000
+                    "price": 500000
+                },{
+                    "name": "Espiculaectomia en manos (sin anestesia)",
+                    "price": 90000
                 },
                 {
                     "name": "Espiculaectomia en manos",
-                    "price": 150000
+                    "price": 160000
                 },
                 {
                     "name": "Curación adicional",
@@ -108,104 +83,49 @@
                     "price": 30000
                 },
                 {
-                    "name": "TTO Inicial Onicomicosis (máx. 4 Uñas) con Quiropedia",
-                    "price": 130000
+                    "name": "Quiropedia para hongos",
+                    "price": 100000
                 },
                 {
-                    "name": "TTO. Inicial Onicomicosis (+4 Uñas) con Quiropedia",
-                    "price": 200000
-                },
-                {
-                    "name": "Onicomicosis control Mensual con Quiropedia",
+                    "name": "Quiropedia para hongos control",
                     "price": 90000
-                },
-                {
-                    "name": "Onicomicosis control Mensual 3 Meses",
-                    "price": 260000
-                },
-                {
-                    "name": "Onicomicosis control Mensual 6 Meses",
-                    "price": 480000
-                },
-                {
-                    "name": "Onicomicosis control Mensual 9 Meses",
-                    "price": 720000
-                },
-                {
-                    "name": "Onicomicosis control Mensual 12 Meses",
-                    "price": 900000
-                },
-                {
-                    "name": "Onicomicosis control Bi-Semanal un Mes con Quiropedia",
-                    "price": 160000
-                },
-                {
-                    "name": "Onicomicosis control Bi-Semanal 3 Meses con Quiropedia",
-                    "price": 450000
-                },
-                {
-                    "name": "Onicomicosis control Bi-Semanal 6 Meses con Quiropedia",
-                    "price": 840000
-                },
-                {
-                    "name": "Onicomicosis control Bi-Semanal 9 Meses con Quiropedia",
-                    "price": 99000
-                },
-                {
-                    "name": "Onicomicosis control Bi-Semanal 12 Meses con Quiropedia",
-                    "price": 1560000
                 },
                 {
                     "name": "Toma de KOH",
                     "price": 20000
                 },
                 {
-                    "name": "Onicogrifosis sin Hongos",
-                    "price": 120000
-                },
-                {
-                    "name": "Debridación de 1 a 3 uñas",
-                    "price": 120000
-                },
-                {
-                    "name": "Debridación más de 4 uñas",
-                    "price": 160000
-                },
-                {
-                    "name": "Eliminación De Una Verruga VPH",
-                    "price": 120000
-                },
-                {
-                    "name": "Eliminación De Una Verruga Adicional VPH",
-                    "price": 70000
-                },
-                {
-                    "name": "Eliminación De Una Verruga VPH  Otras Áreas",
-                    "price": 120000
-                },
-                {
-                    "name": "Terapia para Fascitis Plantar (Unidad)",
+                    "name": "Eliminación VPH sin anestesia",
                     "price": 100000
                 },
                 {
-                    "name": "Terapia para Fascitis plantar 4 sesiones",
-                    "price": 350000
+                    "name": "Eliminación VPH con anestesia",
+                    "price": 150000
                 },
                 {
-                    "name": "Terapia para Fascitis plantar 8 sesiones",
-                    "price": 680000
+                    "name": "Eliminación VPH en Mosaico sin anestesia",
+                    "price": 180000
+                },
+                
+                {
+                    "name": "Eliminación VPH en Mosaico con anestesia",
+                    "price": 250000
                 },
                 {
-                    "name": "Diagnóstico de Pie Plano y Cavo",
-                    "price": 80000
-                },
-                {
-                    "name": "Debridación de Hiperqueratosis",
+                    "name": "Terapia para Fascitis Plantar 1 sesion",
                     "price": 90000
                 },
                 {
-                    "name": "Debridación de Hiperqueratosis + Crema",
-                    "price": 130000
+                    "name": "Terapia para Fascitis plantar 5 sesiones",
+                    "price": 450000
+                },
+                {
+                    "name": "Terapia para Fascitis plantar 10 sesiones",
+                    "price": 800000
+                },
+                {
+                    "name": "Eliminación solo Callosidades",
+                    "price": 90000
                 },
                 {
                     "name": "Helomas (1) (Clavos plantares) sin Anestesia",
@@ -213,11 +133,11 @@
                 },
                 {
                     "name": "Heloma adicional (Clavos plantares) sin Anestesia",
-                    "price": 50000
+                    "price": 40000
                 },
                 {
                     "name": "Heloma (1) (Clavos plantares) con Anestesia",
-                    "price": 140000
+                    "price": 150000
                 },
                 {
                     "name": "Heloma adicional (Clavos plantares) con Anestesia",
@@ -256,7 +176,7 @@
                     "price": 45000
                 },
                 {
-                    "name": "NIOGERMOX - PRIMAX LACA FCO 3 ML ( ANIMICOTICO)",
+                    "name": "NIOGERMOX - PRIMAX LACA FCO 3 ML (ANTIMICOTICO)",
                     "price": 110000
                 }
             ]
